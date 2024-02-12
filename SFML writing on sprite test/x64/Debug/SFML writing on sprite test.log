@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\bozo\source\repos\SFML writing on sprite test\SFML writing on sprite test\Source.cpp(37,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\bozo\source\repos\SFML writing on sprite test\SFML writing on sprite test\Source.cpp(37,30): warning C4305: 'argument': truncation from 'double' to 'float'
+  SFML writing on sprite test.vcxproj -> C:\Users\bozo\source\repos\SFML writing on sprite test\x64\Debug\SFML writing on sprite test.exe
